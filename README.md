@@ -1,9 +1,9 @@
 ### Fala Galera, eu sou o Daniel.
 
-- 🔭 Pretendo conhecer e  atuar nas áreas do Front-End e do Back-End;
+- 🔭 Pretendo conhecer e atuar nas áreas do Front-End e do Back-End;
 - 🌱 Atualmente estudo JavaScript, React, TypeScript
 - 📫 Contato via email: dannielmiguel3003@gmail.com;
-- 😄 Pronomes: Ele/dele.
+
 
 <div align="center"> <br><br>
   <a href="https://github.com/daniel-miguel3003">
