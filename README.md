@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-miguel3003&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div align = "right" style = "display: inline"> <br><br>
+<div align = "right" style = "display: inline_block"> <br><br>
 
 <img align = "center" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align = "center" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />    
